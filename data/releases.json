@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T20:45:55.817Z",
+  "updated_at": "2026-08-01T22:51:13.246Z",
   "repos": [
     {
       "name": "ccx",
@@ -17,7 +17,7 @@
               "name": "ccx-darwin-amd64",
               "size": 34854352,
               "download_url": "https://github.com/BenedictKing/ccx/releases/download/v2.9.37/ccx-darwin-amd64",
-              "download_count": 693
+              "download_count": 695
             },
             {
               "name": "ccx-darwin-amd64.sha256",
@@ -113,7 +113,7 @@
               "name": "CCX-Desktop-2.9.37-windows-amd64-setup.exe",
               "size": 21769456,
               "download_url": "https://github.com/BenedictKing/ccx/releases/download/v2.9.37/CCX-Desktop-2.9.37-windows-amd64-setup.exe",
-              "download_count": 5535
+              "download_count": 5542
             },
             {
               "name": "CCX-Desktop-2.9.37-windows-amd64-setup.exe.sha256",
@@ -11695,19 +11695,19 @@
               "name": "CC-Switch-v3.19.1-Linux-arm64.AppImage",
               "size": 89389576,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.AppImage",
-              "download_count": 330
+              "download_count": 335
             },
             {
               "name": "CC-Switch-v3.19.1-Linux-arm64.AppImage.sig",
               "size": 424,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.AppImage.sig",
-              "download_count": 96
+              "download_count": 99
             },
             {
               "name": "CC-Switch-v3.19.1-Linux-arm64.deb",
               "size": 12565598,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.deb",
-              "download_count": 474
+              "download_count": 475
             },
             {
               "name": "CC-Switch-v3.19.1-Linux-arm64.rpm",
@@ -11719,19 +11719,19 @@
               "name": "CC-Switch-v3.19.1-Linux-x86_64.AppImage",
               "size": 91802104,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.AppImage",
-              "download_count": 863
+              "download_count": 877
             },
             {
               "name": "CC-Switch-v3.19.1-Linux-x86_64.AppImage.sig",
               "size": 424,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.AppImage.sig",
-              "download_count": 110
+              "download_count": 113
             },
             {
               "name": "CC-Switch-v3.19.1-Linux-x86_64.deb",
               "size": 13099408,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.deb",
-              "download_count": 1927
+              "download_count": 1943
             },
             {
               "name": "CC-Switch-v3.19.1-Linux-x86_64.rpm",
@@ -11743,13 +11743,13 @@
               "name": "CC-Switch-v3.19.1-macOS.dmg",
               "size": 27019362,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.dmg",
-              "download_count": 37437
+              "download_count": 39778
             },
             {
               "name": "CC-Switch-v3.19.1-macOS.tar.gz",
               "size": 27717609,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.tar.gz",
-              "download_count": 6837
+              "download_count": 6888
             },
             {
               "name": "CC-Switch-v3.19.1-macOS.tar.gz.sig",
@@ -11761,37 +11761,37 @@
               "name": "CC-Switch-v3.19.1-macOS.zip",
               "size": 27044093,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.zip",
-              "download_count": 252
+              "download_count": 253
             },
             {
               "name": "CC-Switch-v3.19.1-Windows-arm64-Portable.zip",
               "size": 12433571,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Windows-arm64-Portable.zip",
-              "download_count": 743
+              "download_count": 746
             },
             {
               "name": "CC-Switch-v3.19.1-Windows-arm64.msi",
               "size": 12324864,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Windows-arm64.msi",
-              "download_count": 1972
+              "download_count": 1987
             },
             {
               "name": "CC-Switch-v3.19.1-Windows-arm64.msi.sig",
               "size": 424,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Windows-arm64.msi.sig",
-              "download_count": 147
+              "download_count": 148
             },
             {
               "name": "CC-Switch-v3.19.1-Windows-Portable.zip",
               "size": 13071938,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Windows-Portable.zip",
-              "download_count": 3624
+              "download_count": 3648
             },
             {
               "name": "CC-Switch-v3.19.1-Windows.msi",
               "size": 13033472,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Windows.msi",
-              "download_count": 24355
+              "download_count": 24572
             },
             {
               "name": "CC-Switch-v3.19.1-Windows.msi.sig",
@@ -11803,7 +11803,7 @@
               "name": "latest.json",
               "size": 3534,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/latest.json",
-              "download_count": 42101
+              "download_count": 43313
             }
           ]
         },
@@ -11907,13 +11907,13 @@
               "name": "CC-Switch-v3.19.0-Windows-Portable.zip",
               "size": 13053549,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Windows-Portable.zip",
-              "download_count": 5661
+              "download_count": 5662
             },
             {
               "name": "CC-Switch-v3.19.0-Windows.msi",
               "size": 13017088,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Windows.msi",
-              "download_count": 39670
+              "download_count": 39673
             },
             {
               "name": "CC-Switch-v3.19.0-Windows.msi.sig",
@@ -12035,7 +12035,7 @@
               "name": "CC-Switch-v3.18.0-Windows.msi",
               "size": 12849152,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.18.0/CC-Switch-v3.18.0-Windows.msi",
-              "download_count": 199373
+              "download_count": 199374
             },
             {
               "name": "CC-Switch-v3.18.0-Windows.msi.sig",
@@ -12097,7 +12097,7 @@
               "name": "CC-Switch-v3.17.0-Linux-x86_64.deb",
               "size": 12678302,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.17.0/CC-Switch-v3.17.0-Linux-x86_64.deb",
-              "download_count": 19124
+              "download_count": 19133
             },
             {
               "name": "CC-Switch-v3.17.0-Linux-x86_64.rpm",
@@ -12157,7 +12157,7 @@
               "name": "CC-Switch-v3.17.0-Windows.msi",
               "size": 12599296,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.17.0/CC-Switch-v3.17.0-Windows.msi",
-              "download_count": 237062
+              "download_count": 237063
             },
             {
               "name": "CC-Switch-v3.17.0-Windows.msi.sig",
@@ -12279,7 +12279,7 @@
               "name": "CC-Switch-v3.16.5-Windows.msi",
               "size": 12386304,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Windows.msi",
-              "download_count": 369479
+              "download_count": 369484
             },
             {
               "name": "CC-Switch-v3.16.5-Windows.msi.sig",
@@ -12505,7 +12505,7 @@
               "name": "CC-Switch-v3.16.3-Windows.msi",
               "size": 16056320,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.3/CC-Switch-v3.16.3-Windows.msi",
-              "download_count": 456840
+              "download_count": 456841
             },
             {
               "name": "CC-Switch-v3.16.3-Windows.msi.sig",
@@ -12609,7 +12609,7 @@
               "name": "CC-Switch-v3.16.2-Windows.msi",
               "size": 14704640,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.2/CC-Switch-v3.16.2-Windows.msi",
-              "download_count": 297905
+              "download_count": 297906
             },
             {
               "name": "CC-Switch-v3.16.2-Windows.msi.sig",
@@ -12891,7 +12891,7 @@
               "name": "CC-Switch-v3.15.0-macOS.dmg",
               "size": 26814209,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.15.0/CC-Switch-v3.15.0-macOS.dmg",
-              "download_count": 334172
+              "download_count": 334199
             },
             {
               "name": "CC-Switch-v3.15.0-macOS.tar.gz",
@@ -13025,7 +13025,7 @@
               "name": "CC-Switch-v3.14.1-Windows.msi",
               "size": 11726848,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.14.1/CC-Switch-v3.14.1-Windows.msi",
-              "download_count": 518903
+              "download_count": 518905
             },
             {
               "name": "CC-Switch-v3.14.1-Windows.msi.sig",
@@ -13233,7 +13233,7 @@
               "name": "CC-Switch-v3.13.0-Windows.msi",
               "size": 11390976,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.13.0/CC-Switch-v3.13.0-Windows.msi",
-              "download_count": 152545
+              "download_count": 152546
             },
             {
               "name": "CC-Switch-v3.13.0-Windows.msi.sig",
@@ -13533,7 +13533,7 @@
               "name": "CC-Switch-v3.12.1-Windows.msi",
               "size": 9654272,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.12.1/CC-Switch-v3.12.1-Windows.msi",
-              "download_count": 11378
+              "download_count": 11379
             },
             {
               "name": "CC-Switch-v3.12.1-Windows.msi.sig",
@@ -15725,43 +15725,43 @@
               "name": "CodexPlusPlus-1.2.44-macos-arm64.dmg",
               "size": 34519972,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.44/CodexPlusPlus-1.2.44-macos-arm64.dmg",
-              "download_count": 3983
+              "download_count": 4005
             },
             {
               "name": "CodexPlusPlus-1.2.44-macos-arm64.zip",
               "size": 30610401,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.44/CodexPlusPlus-1.2.44-macos-arm64.zip",
-              "download_count": 538
+              "download_count": 541
             },
             {
               "name": "CodexPlusPlus-1.2.44-macos-x64.dmg",
               "size": 35628759,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.44/CodexPlusPlus-1.2.44-macos-x64.dmg",
-              "download_count": 911
+              "download_count": 915
             },
             {
               "name": "CodexPlusPlus-1.2.44-macos-x64.zip",
               "size": 31046100,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.44/CodexPlusPlus-1.2.44-macos-x64.zip",
-              "download_count": 320
+              "download_count": 321
             },
             {
               "name": "CodexPlusPlus-1.2.44-windows-x64-setup.exe",
               "size": 21629134,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.44/CodexPlusPlus-1.2.44-windows-x64-setup.exe",
-              "download_count": 24646
+              "download_count": 24742
             },
             {
               "name": "CodexPlusPlus-1.2.44-windows-x64.zip",
               "size": 26542897,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.44/CodexPlusPlus-1.2.44-windows-x64.zip",
-              "download_count": 2627
+              "download_count": 2638
             },
             {
               "name": "latest.json",
               "size": 1678,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.44/latest.json",
-              "download_count": 63261
+              "download_count": 64208
             }
           ]
         },
@@ -15999,7 +15999,7 @@
               "name": "CodexPlusPlus-1.2.39-windows-x64-setup.exe",
               "size": 21115159,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.39/CodexPlusPlus-1.2.39-windows-x64-setup.exe",
-              "download_count": 15769
+              "download_count": 15770
             },
             {
               "name": "CodexPlusPlus-1.2.39-windows-x64.zip",
@@ -16355,13 +16355,13 @@
               "name": "CodexPlusPlus-1.2.32-windows-x64.zip",
               "size": 19564929,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.32/CodexPlusPlus-1.2.32-windows-x64.zip",
-              "download_count": 7640
+              "download_count": 7641
             },
             {
               "name": "latest.json",
               "size": 2308,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.32/latest.json",
-              "download_count": 157785
+              "download_count": 157786
             }
           ]
         },
@@ -16375,43 +16375,43 @@
               "name": "CodexPlusPlus-1.2.31-macos-arm64.dmg",
               "size": 22457807,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.31/CodexPlusPlus-1.2.31-macos-arm64.dmg",
-              "download_count": 3092
+              "download_count": 3093
             },
             {
               "name": "CodexPlusPlus-1.2.31-macos-arm64.zip",
               "size": 19514485,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.31/CodexPlusPlus-1.2.31-macos-arm64.zip",
-              "download_count": 366
+              "download_count": 367
             },
             {
               "name": "CodexPlusPlus-1.2.31-macos-x64.dmg",
               "size": 23370608,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.31/CodexPlusPlus-1.2.31-macos-x64.dmg",
-              "download_count": 737
+              "download_count": 738
             },
             {
               "name": "CodexPlusPlus-1.2.31-macos-x64.zip",
               "size": 19983512,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.31/CodexPlusPlus-1.2.31-macos-x64.zip",
-              "download_count": 263
+              "download_count": 264
             },
             {
               "name": "CodexPlusPlus-1.2.31-windows-x64-setup.exe",
               "size": 15870469,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.31/CodexPlusPlus-1.2.31-windows-x64-setup.exe",
-              "download_count": 16888
+              "download_count": 16889
             },
             {
               "name": "CodexPlusPlus-1.2.31-windows-x64.zip",
               "size": 19496617,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.31/CodexPlusPlus-1.2.31-windows-x64.zip",
-              "download_count": 1885
+              "download_count": 1886
             },
             {
               "name": "latest.json",
               "size": 1766,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.31/latest.json",
-              "download_count": 38360
+              "download_count": 38361
             }
           ]
         },
@@ -16425,43 +16425,43 @@
               "name": "CodexPlusPlus-1.2.30-macos-arm64.dmg",
               "size": 22151400,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.30/CodexPlusPlus-1.2.30-macos-arm64.dmg",
-              "download_count": 3846
+              "download_count": 3847
             },
             {
               "name": "CodexPlusPlus-1.2.30-macos-arm64.zip",
               "size": 19168816,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.30/CodexPlusPlus-1.2.30-macos-arm64.zip",
-              "download_count": 540
+              "download_count": 541
             },
             {
               "name": "CodexPlusPlus-1.2.30-macos-x64.dmg",
               "size": 23029800,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.30/CodexPlusPlus-1.2.30-macos-x64.dmg",
-              "download_count": 969
+              "download_count": 970
             },
             {
               "name": "CodexPlusPlus-1.2.30-macos-x64.zip",
               "size": 19641444,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.30/CodexPlusPlus-1.2.30-macos-x64.zip",
-              "download_count": 404
+              "download_count": 405
             },
             {
               "name": "CodexPlusPlus-1.2.30-windows-x64-setup.exe",
               "size": 15539091,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.30/CodexPlusPlus-1.2.30-windows-x64-setup.exe",
-              "download_count": 19406
+              "download_count": 19407
             },
             {
               "name": "CodexPlusPlus-1.2.30-windows-x64.zip",
               "size": 19170419,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.30/CodexPlusPlus-1.2.30-windows-x64.zip",
-              "download_count": 2207
+              "download_count": 2208
             },
             {
               "name": "latest.json",
               "size": 1853,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.30/latest.json",
-              "download_count": 37018
+              "download_count": 37019
             }
           ]
         },
@@ -16475,43 +16475,43 @@
               "name": "CodexPlusPlus-1.2.29-macos-arm64.dmg",
               "size": 15288482,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.29/CodexPlusPlus-1.2.29-macos-arm64.dmg",
-              "download_count": 346
+              "download_count": 347
             },
             {
               "name": "CodexPlusPlus-1.2.29-macos-arm64.zip",
               "size": 12424636,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.29/CodexPlusPlus-1.2.29-macos-arm64.zip",
-              "download_count": 48
+              "download_count": 49
             },
             {
               "name": "CodexPlusPlus-1.2.29-macos-x64.dmg",
               "size": 16215347,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.29/CodexPlusPlus-1.2.29-macos-x64.dmg",
-              "download_count": 79
+              "download_count": 80
             },
             {
               "name": "CodexPlusPlus-1.2.29-macos-x64.zip",
               "size": 12955960,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.29/CodexPlusPlus-1.2.29-macos-x64.zip",
-              "download_count": 29
+              "download_count": 30
             },
             {
               "name": "CodexPlusPlus-1.2.29-windows-x64-setup.exe",
               "size": 8940168,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.29/CodexPlusPlus-1.2.29-windows-x64-setup.exe",
-              "download_count": 1632
+              "download_count": 1633
             },
             {
               "name": "CodexPlusPlus-1.2.29-windows-x64.zip",
               "size": 12464314,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.29/CodexPlusPlus-1.2.29-windows-x64.zip",
-              "download_count": 193
+              "download_count": 194
             },
             {
               "name": "latest.json",
               "size": 2252,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.29/latest.json",
-              "download_count": 1312
+              "download_count": 1313
             }
           ]
         },
@@ -16525,43 +16525,43 @@
               "name": "CodexPlusPlus-1.2.28-macos-arm64.dmg",
               "size": 15293788,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.28/CodexPlusPlus-1.2.28-macos-arm64.dmg",
-              "download_count": 1361
+              "download_count": 1362
             },
             {
               "name": "CodexPlusPlus-1.2.28-macos-arm64.zip",
               "size": 12432819,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.28/CodexPlusPlus-1.2.28-macos-arm64.zip",
-              "download_count": 153
+              "download_count": 154
             },
             {
               "name": "CodexPlusPlus-1.2.28-macos-x64.dmg",
               "size": 16207554,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.28/CodexPlusPlus-1.2.28-macos-x64.dmg",
-              "download_count": 291
+              "download_count": 292
             },
             {
               "name": "CodexPlusPlus-1.2.28-macos-x64.zip",
               "size": 12949047,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.28/CodexPlusPlus-1.2.28-macos-x64.zip",
-              "download_count": 112
+              "download_count": 113
             },
             {
               "name": "CodexPlusPlus-1.2.28-windows-x64-setup.exe",
               "size": 8919367,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.28/CodexPlusPlus-1.2.28-windows-x64-setup.exe",
-              "download_count": 6785
+              "download_count": 6786
             },
             {
               "name": "CodexPlusPlus-1.2.28-windows-x64.zip",
               "size": 12440676,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.28/CodexPlusPlus-1.2.28-windows-x64.zip",
-              "download_count": 656
+              "download_count": 657
             },
             {
               "name": "latest.json",
               "size": 1632,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.28/latest.json",
-              "download_count": 14344
+              "download_count": 14345
             }
           ]
         },
@@ -16575,25 +16575,25 @@
               "name": "CodexPlusPlus-1.2.27-macos-arm64.dmg",
               "size": 15274843,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.27/CodexPlusPlus-1.2.27-macos-arm64.dmg",
-              "download_count": 1827
+              "download_count": 1828
             },
             {
               "name": "CodexPlusPlus-1.2.27-macos-x64.dmg",
               "size": 16172808,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.27/CodexPlusPlus-1.2.27-macos-x64.dmg",
-              "download_count": 428
+              "download_count": 429
             },
             {
               "name": "CodexPlusPlus-1.2.27-windows-x64-setup.exe",
               "size": 8919756,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.27/CodexPlusPlus-1.2.27-windows-x64-setup.exe",
-              "download_count": 9575
+              "download_count": 9576
             },
             {
               "name": "latest.json",
               "size": 1183,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.27/latest.json",
-              "download_count": 14090
+              "download_count": 14091
             }
           ]
         },
@@ -16607,25 +16607,25 @@
               "name": "CodexPlusPlus-1.2.26-macos-arm64.dmg",
               "size": 14202034,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.26/CodexPlusPlus-1.2.26-macos-arm64.dmg",
-              "download_count": 509
+              "download_count": 510
             },
             {
               "name": "CodexPlusPlus-1.2.26-macos-x64.dmg",
               "size": 15118132,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.26/CodexPlusPlus-1.2.26-macos-x64.dmg",
-              "download_count": 107
+              "download_count": 108
             },
             {
               "name": "CodexPlusPlus-1.2.26-windows-x64-setup.exe",
               "size": 8685991,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.26/CodexPlusPlus-1.2.26-windows-x64-setup.exe",
-              "download_count": 2262
+              "download_count": 2263
             },
             {
               "name": "latest.json",
               "size": 1045,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.26/latest.json",
-              "download_count": 3246
+              "download_count": 3247
             }
           ]
         },
@@ -16639,25 +16639,25 @@
               "name": "CodexPlusPlus-1.2.25-macos-arm64.dmg",
               "size": 15065631,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.25/CodexPlusPlus-1.2.25-macos-arm64.dmg",
-              "download_count": 1049
+              "download_count": 1050
             },
             {
               "name": "CodexPlusPlus-1.2.25-macos-x64.dmg",
               "size": 15976160,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.25/CodexPlusPlus-1.2.25-macos-x64.dmg",
-              "download_count": 250
+              "download_count": 251
             },
             {
               "name": "CodexPlusPlus-1.2.25-windows-x64-setup.exe",
               "size": 8800877,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.25/CodexPlusPlus-1.2.25-windows-x64-setup.exe",
-              "download_count": 5512
+              "download_count": 5513
             },
             {
               "name": "latest.json",
               "size": 957,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.25/latest.json",
-              "download_count": 10922
+              "download_count": 10923
             }
           ]
         },
@@ -16671,25 +16671,25 @@
               "name": "CodexPlusPlus-1.2.24-macos-arm64.dmg",
               "size": 14939976,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.24/CodexPlusPlus-1.2.24-macos-arm64.dmg",
-              "download_count": 4632
+              "download_count": 4633
             },
             {
               "name": "CodexPlusPlus-1.2.24-macos-x64.dmg",
               "size": 15807187,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.24/CodexPlusPlus-1.2.24-macos-x64.dmg",
-              "download_count": 1202
+              "download_count": 1203
             },
             {
               "name": "CodexPlusPlus-1.2.24-windows-x64-setup.exe",
               "size": 8741611,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.24/CodexPlusPlus-1.2.24-windows-x64-setup.exe",
-              "download_count": 25092
+              "download_count": 25093
             },
             {
               "name": "latest.json",
               "size": 1075,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.24/latest.json",
-              "download_count": 45105
+              "download_count": 45106
             }
           ]
         },
@@ -16703,31 +16703,31 @@
               "name": "CodexPlusPlus-1.2.23-macos-arm64.dmg",
               "size": 15278676,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.23/CodexPlusPlus-1.2.23-macos-arm64.dmg",
-              "download_count": 1955
+              "download_count": 1956
             },
             {
               "name": "CodexPlusPlus-1.2.23-macos-x64.dmg",
               "size": 16208806,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.23/CodexPlusPlus-1.2.23-macos-x64.dmg",
-              "download_count": 446
+              "download_count": 447
             },
             {
               "name": "CodexPlusPlus-1.2.23-windows-x64-setup.exe",
               "size": 8933471,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.23/CodexPlusPlus-1.2.23-windows-x64-setup.exe",
-              "download_count": 9427
+              "download_count": 9428
             },
             {
               "name": "CodexPlusPlus-1.2.23-windows-x64.zip",
               "size": 12535036,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.23/CodexPlusPlus-1.2.23-windows-x64.zip",
-              "download_count": 1107
+              "download_count": 1108
             },
             {
               "name": "latest.json",
               "size": 1464,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.23/latest.json",
-              "download_count": 16676
+              "download_count": 16677
             }
           ]
         },
@@ -16741,31 +16741,31 @@
               "name": "CodexPlusPlus-1.2.22-macos-arm64.dmg",
               "size": 15284263,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.22/CodexPlusPlus-1.2.22-macos-arm64.dmg",
-              "download_count": 1178
+              "download_count": 1179
             },
             {
               "name": "CodexPlusPlus-1.2.22-macos-x64.dmg",
               "size": 16206738,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.22/CodexPlusPlus-1.2.22-macos-x64.dmg",
-              "download_count": 324
+              "download_count": 325
             },
             {
               "name": "CodexPlusPlus-1.2.22-windows-x64-setup.exe",
               "size": 8929165,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.22/CodexPlusPlus-1.2.22-windows-x64-setup.exe",
-              "download_count": 6206
+              "download_count": 6207
             },
             {
               "name": "CodexPlusPlus-1.2.22-windows-x64.zip",
               "size": 12521032,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.22/CodexPlusPlus-1.2.22-windows-x64.zip",
-              "download_count": 958
+              "download_count": 959
             },
             {
               "name": "latest.json",
               "size": 1859,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.22/latest.json",
-              "download_count": 11179
+              "download_count": 11180
             }
           ]
         },
@@ -16779,31 +16779,31 @@
               "name": "CodexPlusPlus-1.2.21-macos-arm64.dmg",
               "size": 15287889,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.21/CodexPlusPlus-1.2.21-macos-arm64.dmg",
-              "download_count": 1780
+              "download_count": 1781
             },
             {
               "name": "CodexPlusPlus-1.2.21-macos-x64.dmg",
               "size": 16199830,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.21/CodexPlusPlus-1.2.21-macos-x64.dmg",
-              "download_count": 695
+              "download_count": 696
             },
             {
               "name": "CodexPlusPlus-1.2.21-windows-x64-setup.exe",
               "size": 8931670,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.21/CodexPlusPlus-1.2.21-windows-x64-setup.exe",
-              "download_count": 8080
+              "download_count": 8081
             },
             {
               "name": "CodexPlusPlus-1.2.21-windows-x64.zip",
               "size": 16389732,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.21/CodexPlusPlus-1.2.21-windows-x64.zip",
-              "download_count": 1257
+              "download_count": 1258
             },
             {
               "name": "latest.json",
               "size": 1709,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.21/latest.json",
-              "download_count": 15785
+              "download_count": 15786
             }
           ]
         },
@@ -16817,31 +16817,31 @@
               "name": "CodexPlusPlus-1.2.20-macos-arm64.dmg",
               "size": 15291892,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.20/CodexPlusPlus-1.2.20-macos-arm64.dmg",
-              "download_count": 1498
+              "download_count": 1499
             },
             {
               "name": "CodexPlusPlus-1.2.20-macos-x64.dmg",
               "size": 16200951,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.20/CodexPlusPlus-1.2.20-macos-x64.dmg",
-              "download_count": 497
+              "download_count": 498
             },
             {
               "name": "CodexPlusPlus-1.2.20-windows-x64-setup.exe",
               "size": 8930719,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.20/CodexPlusPlus-1.2.20-windows-x64-setup.exe",
-              "download_count": 7726
+              "download_count": 7727
             },
             {
               "name": "CodexPlusPlus-1.2.20-windows-x64.zip",
               "size": 16394535,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.20/CodexPlusPlus-1.2.20-windows-x64.zip",
-              "download_count": 1093
+              "download_count": 1094
             },
             {
               "name": "latest.json",
               "size": 1749,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.20/latest.json",
-              "download_count": 14278
+              "download_count": 14279
             }
           ]
         },
@@ -16855,31 +16855,31 @@
               "name": "CodexPlusPlus-1.2.19-macos-arm64.dmg",
               "size": 15015280,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.19/CodexPlusPlus-1.2.19-macos-arm64.dmg",
-              "download_count": 557
+              "download_count": 558
             },
             {
               "name": "CodexPlusPlus-1.2.19-macos-x64.dmg",
               "size": 15953363,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.19/CodexPlusPlus-1.2.19-macos-x64.dmg",
-              "download_count": 138
+              "download_count": 139
             },
             {
               "name": "CodexPlusPlus-1.2.19-windows-x64-setup.exe",
               "size": 8813576,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.19/CodexPlusPlus-1.2.19-windows-x64-setup.exe",
-              "download_count": 2971
+              "download_count": 2972
             },
             {
               "name": "CodexPlusPlus-1.2.19-windows-x64.zip",
               "size": 12307434,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.19/CodexPlusPlus-1.2.19-windows-x64.zip",
-              "download_count": 420
+              "download_count": 421
             },
             {
               "name": "latest.json",
               "size": 1386,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.19/latest.json",
-              "download_count": 3849
+              "download_count": 3850
             }
           ]
         },
@@ -16893,25 +16893,25 @@
               "name": "CodexPlusPlus-1.2.18-macos-arm64.dmg",
               "size": 14967832,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.18/CodexPlusPlus-1.2.18-macos-arm64.dmg",
-              "download_count": 17734
+              "download_count": 17735
             },
             {
               "name": "CodexPlusPlus-1.2.18-macos-x64.dmg",
               "size": 15868999,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.18/CodexPlusPlus-1.2.18-macos-x64.dmg",
-              "download_count": 5090
+              "download_count": 5091
             },
             {
               "name": "CodexPlusPlus-1.2.18-windows-x64-setup.exe",
               "size": 8827182,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.18/CodexPlusPlus-1.2.18-windows-x64-setup.exe",
-              "download_count": 93615
+              "download_count": 93616
             },
             {
               "name": "latest.json",
               "size": 1532,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.18/latest.json",
-              "download_count": 191202
+              "download_count": 191203
             }
           ]
         },
@@ -16925,25 +16925,25 @@
               "name": "CodexPlusPlus-1.2.17-macos-arm64.dmg",
               "size": 15094722,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.17/CodexPlusPlus-1.2.17-macos-arm64.dmg",
-              "download_count": 2263
+              "download_count": 2264
             },
             {
               "name": "CodexPlusPlus-1.2.17-macos-x64.dmg",
               "size": 15856563,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.17/CodexPlusPlus-1.2.17-macos-x64.dmg",
-              "download_count": 547
+              "download_count": 548
             },
             {
               "name": "CodexPlusPlus-1.2.17-windows-x64-setup.exe",
               "size": 8817835,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.17/CodexPlusPlus-1.2.17-windows-x64-setup.exe",
-              "download_count": 11987
+              "download_count": 11988
             },
             {
               "name": "latest.json",
               "size": 1261,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.17/latest.json",
-              "download_count": 21363
+              "download_count": 21364
             }
           ]
         },
@@ -16957,25 +16957,25 @@
               "name": "CodexPlusPlus-1.2.16-macos-arm64.dmg",
               "size": 14856491,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.16/CodexPlusPlus-1.2.16-macos-arm64.dmg",
-              "download_count": 809
+              "download_count": 810
             },
             {
               "name": "CodexPlusPlus-1.2.16-macos-x64.dmg",
               "size": 15744203,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.16/CodexPlusPlus-1.2.16-macos-x64.dmg",
-              "download_count": 204
+              "download_count": 205
             },
             {
               "name": "CodexPlusPlus-1.2.16-windows-x64-setup.exe",
               "size": 8719351,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.16/CodexPlusPlus-1.2.16-windows-x64-setup.exe",
-              "download_count": 4117
+              "download_count": 4118
             },
             {
               "name": "latest.json",
               "size": 1278,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.16/latest.json",
-              "download_count": 5301
+              "download_count": 5302
             }
           ]
         },
@@ -16989,25 +16989,25 @@
               "name": "CodexPlusPlus-1.2.15-macos-arm64.dmg",
               "size": 14564792,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.15/CodexPlusPlus-1.2.15-macos-arm64.dmg",
-              "download_count": 5905
+              "download_count": 5906
             },
             {
               "name": "CodexPlusPlus-1.2.15-macos-x64.dmg",
               "size": 15458965,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.15/CodexPlusPlus-1.2.15-macos-x64.dmg",
-              "download_count": 1621
+              "download_count": 1622
             },
             {
               "name": "CodexPlusPlus-1.2.15-windows-x64-setup.exe",
               "size": 8544190,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.15/CodexPlusPlus-1.2.15-windows-x64-setup.exe",
-              "download_count": 32830
+              "download_count": 32831
             },
             {
               "name": "latest.json",
               "size": 1018,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.15/latest.json",
-              "download_count": 62678
+              "download_count": 62679
             }
           ]
         },
@@ -17021,25 +17021,25 @@
               "name": "CodexPlusPlus-1.2.14-macos-arm64.dmg",
               "size": 14483100,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.14/CodexPlusPlus-1.2.14-macos-arm64.dmg",
-              "download_count": 3055
+              "download_count": 3056
             },
             {
               "name": "CodexPlusPlus-1.2.14-macos-x64.dmg",
               "size": 15377585,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.14/CodexPlusPlus-1.2.14-macos-x64.dmg",
-              "download_count": 766
+              "download_count": 767
             },
             {
               "name": "CodexPlusPlus-1.2.14-windows-x64-setup.exe",
               "size": 8498803,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.14/CodexPlusPlus-1.2.14-windows-x64-setup.exe",
-              "download_count": 16230
+              "download_count": 16231
             },
             {
               "name": "latest.json",
               "size": 1148,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.14/latest.json",
-              "download_count": 25220
+              "download_count": 25221
             }
           ]
         },
@@ -17053,25 +17053,25 @@
               "name": "CodexPlusPlus-1.2.13-macos-arm64.dmg",
               "size": 14491109,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.13/CodexPlusPlus-1.2.13-macos-arm64.dmg",
-              "download_count": 2617
+              "download_count": 2618
             },
             {
               "name": "CodexPlusPlus-1.2.13-macos-x64.dmg",
               "size": 15338325,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.13/CodexPlusPlus-1.2.13-macos-x64.dmg",
-              "download_count": 670
+              "download_count": 671
             },
             {
               "name": "CodexPlusPlus-1.2.13-windows-x64-setup.exe",
               "size": 8519763,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.13/CodexPlusPlus-1.2.13-windows-x64-setup.exe",
-              "download_count": 12883
+              "download_count": 12884
             },
             {
               "name": "latest.json",
               "size": 1589,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.13/latest.json",
-              "download_count": 16563
+              "download_count": 16564
             }
           ]
         },
@@ -17085,25 +17085,25 @@
               "name": "CodexPlusPlus-1.2.12-macos-arm64.dmg",
               "size": 14474836,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.12/CodexPlusPlus-1.2.12-macos-arm64.dmg",
-              "download_count": 1848
+              "download_count": 1849
             },
             {
               "name": "CodexPlusPlus-1.2.12-macos-x64.dmg",
               "size": 15759639,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.12/CodexPlusPlus-1.2.12-macos-x64.dmg",
-              "download_count": 363
+              "download_count": 364
             },
             {
               "name": "CodexPlusPlus-1.2.12-windows-x64-setup.exe",
               "size": 8523054,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.12/CodexPlusPlus-1.2.12-windows-x64-setup.exe",
-              "download_count": 8700
+              "download_count": 8701
             },
             {
               "name": "latest.json",
               "size": 1351,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.12/latest.json",
-              "download_count": 13096
+              "download_count": 13097
             }
           ]
         },
@@ -17117,25 +17117,25 @@
               "name": "CodexPlusPlus-1.2.11-macos-arm64.dmg",
               "size": 14507302,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.11/CodexPlusPlus-1.2.11-macos-arm64.dmg",
-              "download_count": 294
+              "download_count": 295
             },
             {
               "name": "CodexPlusPlus-1.2.11-macos-x64.dmg",
               "size": 15372394,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.11/CodexPlusPlus-1.2.11-macos-x64.dmg",
-              "download_count": 64
+              "download_count": 65
             },
             {
               "name": "CodexPlusPlus-1.2.11-windows-x64-setup.exe",
               "size": 8498444,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.11/CodexPlusPlus-1.2.11-windows-x64-setup.exe",
-              "download_count": 1462
+              "download_count": 1463
             },
             {
               "name": "latest.json",
               "size": 1134,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.11/latest.json",
-              "download_count": 3221
+              "download_count": 3222
             }
           ]
         },
@@ -17149,25 +17149,25 @@
               "name": "CodexPlusPlus-1.2.10-macos-arm64.dmg",
               "size": 14509544,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.10/CodexPlusPlus-1.2.10-macos-arm64.dmg",
-              "download_count": 163
+              "download_count": 164
             },
             {
               "name": "CodexPlusPlus-1.2.10-macos-x64.dmg",
               "size": 15378800,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.10/CodexPlusPlus-1.2.10-macos-x64.dmg",
-              "download_count": 53
+              "download_count": 54
             },
             {
               "name": "CodexPlusPlus-1.2.10-windows-x64-setup.exe",
               "size": 8500902,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.10/CodexPlusPlus-1.2.10-windows-x64-setup.exe",
-              "download_count": 991
+              "download_count": 992
             },
             {
               "name": "latest.json",
               "size": 1834,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.10/latest.json",
-              "download_count": 1119
+              "download_count": 1120
             }
           ]
         },
@@ -17181,25 +17181,25 @@
               "name": "CodexPlusPlus-1.2.9-macos-arm64.dmg",
               "size": 14399248,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.9/CodexPlusPlus-1.2.9-macos-arm64.dmg",
-              "download_count": 8178
+              "download_count": 8179
             },
             {
               "name": "CodexPlusPlus-1.2.9-macos-x64.dmg",
               "size": 15230428,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.9/CodexPlusPlus-1.2.9-macos-x64.dmg",
-              "download_count": 2258
+              "download_count": 2259
             },
             {
               "name": "CodexPlusPlus-1.2.9-windows-x64-setup.exe",
               "size": 8426618,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.9/CodexPlusPlus-1.2.9-windows-x64-setup.exe",
-              "download_count": 42779
+              "download_count": 42780
             },
             {
               "name": "latest.json",
               "size": 1562,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.9/latest.json",
-              "download_count": 68201
+              "download_count": 68202
             }
           ]
         },
@@ -17213,25 +17213,25 @@
               "name": "CodexPlusPlus-1.2.8-macos-arm64.dmg",
               "size": 14390079,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.8/CodexPlusPlus-1.2.8-macos-arm64.dmg",
-              "download_count": 1331
+              "download_count": 1332
             },
             {
               "name": "CodexPlusPlus-1.2.8-macos-x64.dmg",
               "size": 15222394,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.8/CodexPlusPlus-1.2.8-macos-x64.dmg",
-              "download_count": 344
+              "download_count": 345
             },
             {
               "name": "CodexPlusPlus-1.2.8-windows-x64-setup.exe",
               "size": 8428891,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.8/CodexPlusPlus-1.2.8-windows-x64-setup.exe",
-              "download_count": 7297
+              "download_count": 7298
             },
             {
               "name": "latest.json",
               "size": 1092,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.8/latest.json",
-              "download_count": 9691
+              "download_count": 9692
             }
           ]
         },
@@ -17245,25 +17245,25 @@
               "name": "CodexPlusPlus-1.2.7-macos-arm64.dmg",
               "size": 14329636,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.7/CodexPlusPlus-1.2.7-macos-arm64.dmg",
-              "download_count": 2120
+              "download_count": 2121
             },
             {
               "name": "CodexPlusPlus-1.2.7-macos-x64.dmg",
               "size": 15181562,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.7/CodexPlusPlus-1.2.7-macos-x64.dmg",
-              "download_count": 594
+              "download_count": 595
             },
             {
               "name": "CodexPlusPlus-1.2.7-windows-x64-setup.exe",
               "size": 8336071,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.7/CodexPlusPlus-1.2.7-windows-x64-setup.exe",
-              "download_count": 13226
+              "download_count": 13227
             },
             {
               "name": "latest.json",
               "size": 1612,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.7/latest.json",
-              "download_count": 20726
+              "download_count": 20727
             }
           ]
         },
@@ -17277,25 +17277,25 @@
               "name": "CodexPlusPlus-1.2.6-macos-arm64.dmg",
               "size": 14366214,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.6/CodexPlusPlus-1.2.6-macos-arm64.dmg",
-              "download_count": 1787
+              "download_count": 1788
             },
             {
               "name": "CodexPlusPlus-1.2.6-macos-x64.dmg",
               "size": 15255200,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.6/CodexPlusPlus-1.2.6-macos-x64.dmg",
-              "download_count": 469
+              "download_count": 470
             },
             {
               "name": "CodexPlusPlus-1.2.6-windows-x64-setup.exe",
               "size": 8376744,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.6/CodexPlusPlus-1.2.6-windows-x64-setup.exe",
-              "download_count": 10098
+              "download_count": 10099
             },
             {
               "name": "latest.json",
               "size": 735,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.6/latest.json",
-              "download_count": 16545
+              "download_count": 16546
             }
           ]
         },
@@ -17309,25 +17309,25 @@
               "name": "CodexPlusPlus-1.2.5-macos-arm64.dmg",
               "size": 14334810,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.5/CodexPlusPlus-1.2.5-macos-arm64.dmg",
-              "download_count": 1552
+              "download_count": 1553
             },
             {
               "name": "CodexPlusPlus-1.2.5-macos-x64.dmg",
               "size": 15177289,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.5/CodexPlusPlus-1.2.5-macos-x64.dmg",
-              "download_count": 449
+              "download_count": 450
             },
             {
               "name": "CodexPlusPlus-1.2.5-windows-x64-setup.exe",
               "size": 8339857,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.5/CodexPlusPlus-1.2.5-windows-x64-setup.exe",
-              "download_count": 8623
+              "download_count": 8624
             },
             {
               "name": "latest.json",
               "size": 2634,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.5/latest.json",
-              "download_count": 11968
+              "download_count": 11969
             }
           ]
         },
@@ -17341,25 +17341,25 @@
               "name": "CodexPlusPlus-1.2.4-macos-arm64.dmg",
               "size": 13971143,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.4/CodexPlusPlus-1.2.4-macos-arm64.dmg",
-              "download_count": 19276
+              "download_count": 19277
             },
             {
               "name": "CodexPlusPlus-1.2.4-macos-x64.dmg",
               "size": 14866101,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.4/CodexPlusPlus-1.2.4-macos-x64.dmg",
-              "download_count": 5169
+              "download_count": 5170
             },
             {
               "name": "CodexPlusPlus-1.2.4-windows-x64-setup.exe",
               "size": 7973836,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.4/CodexPlusPlus-1.2.4-windows-x64-setup.exe",
-              "download_count": 98950
+              "download_count": 98951
             },
             {
               "name": "latest.json",
               "size": 2093,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.4/latest.json",
-              "download_count": 171959
+              "download_count": 171960
             }
           ]
         },
@@ -17373,25 +17373,25 @@
               "name": "CodexPlusPlus-1.2.3-macos-arm64.dmg",
               "size": 13840204,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.3/CodexPlusPlus-1.2.3-macos-arm64.dmg",
-              "download_count": 10862
+              "download_count": 10863
             },
             {
               "name": "CodexPlusPlus-1.2.3-macos-x64.dmg",
               "size": 14670841,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.3/CodexPlusPlus-1.2.3-macos-x64.dmg",
-              "download_count": 3098
+              "download_count": 3099
             },
             {
               "name": "CodexPlusPlus-1.2.3-windows-x64-setup.exe",
               "size": 7873710,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.3/CodexPlusPlus-1.2.3-windows-x64-setup.exe",
-              "download_count": 56727
+              "download_count": 56728
             },
             {
               "name": "latest.json",
               "size": 744,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.3/latest.json",
-              "download_count": 95238
+              "download_count": 95239
             }
           ]
         },
@@ -17405,25 +17405,25 @@
               "name": "CodexPlusPlus-1.2.2-macos-arm64.dmg",
               "size": 13835833,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.2/CodexPlusPlus-1.2.2-macos-arm64.dmg",
-              "download_count": 3636
+              "download_count": 3637
             },
             {
               "name": "CodexPlusPlus-1.2.2-macos-x64.dmg",
               "size": 14668525,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.2/CodexPlusPlus-1.2.2-macos-x64.dmg",
-              "download_count": 880
+              "download_count": 881
             },
             {
               "name": "CodexPlusPlus-1.2.2-windows-x64-setup.exe",
               "size": 7867065,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.2/CodexPlusPlus-1.2.2-windows-x64-setup.exe",
-              "download_count": 19872
+              "download_count": 19873
             },
             {
               "name": "latest.json",
               "size": 777,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.2/latest.json",
-              "download_count": 26309
+              "download_count": 26310
             }
           ]
         },
@@ -17437,25 +17437,25 @@
               "name": "CodexPlusPlus-1.2.1-macos-arm64.dmg",
               "size": 13736385,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.1/CodexPlusPlus-1.2.1-macos-arm64.dmg",
-              "download_count": 3838
+              "download_count": 3839
             },
             {
               "name": "CodexPlusPlus-1.2.1-macos-x64.dmg",
               "size": 14570301,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.1/CodexPlusPlus-1.2.1-macos-x64.dmg",
-              "download_count": 917
+              "download_count": 918
             },
             {
               "name": "CodexPlusPlus-1.2.1-windows-x64-setup.exe",
               "size": 7831620,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.1/CodexPlusPlus-1.2.1-windows-x64-setup.exe",
-              "download_count": 20005
+              "download_count": 20006
             },
             {
               "name": "latest.json",
               "size": 967,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.1/latest.json",
-              "download_count": 26091
+              "download_count": 26092
             }
           ]
         },
@@ -17469,25 +17469,25 @@
               "name": "CodexPlusPlus-1.2.0-macos-arm64.dmg",
               "size": 13734910,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.0/CodexPlusPlus-1.2.0-macos-arm64.dmg",
-              "download_count": 2157
+              "download_count": 2158
             },
             {
               "name": "CodexPlusPlus-1.2.0-macos-x64.dmg",
               "size": 14571845,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.0/CodexPlusPlus-1.2.0-macos-x64.dmg",
-              "download_count": 495
+              "download_count": 496
             },
             {
               "name": "CodexPlusPlus-1.2.0-windows-x64-setup.exe",
               "size": 7830305,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.0/CodexPlusPlus-1.2.0-windows-x64-setup.exe",
-              "download_count": 11417
+              "download_count": 11418
             },
             {
               "name": "latest.json",
               "size": 1128,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.0/latest.json",
-              "download_count": 12299
+              "download_count": 12300
             }
           ]
         },
@@ -17501,25 +17501,25 @@
               "name": "CodexPlusPlus-1.1.9-macos-arm64.dmg",
               "size": 13858719,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9/CodexPlusPlus-1.1.9-macos-arm64.dmg",
-              "download_count": 5679
+              "download_count": 5680
             },
             {
               "name": "CodexPlusPlus-1.1.9-macos-x64.dmg",
               "size": 14640156,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9/CodexPlusPlus-1.1.9-macos-x64.dmg",
-              "download_count": 1293
+              "download_count": 1294
             },
             {
               "name": "CodexPlusPlus-1.1.9-windows-x64-setup.exe",
               "size": 7890666,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9/CodexPlusPlus-1.1.9-windows-x64-setup.exe",
-              "download_count": 26844
+              "download_count": 26845
             },
             {
               "name": "latest.json",
               "size": 3090,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9/latest.json",
-              "download_count": 39401
+              "download_count": 39402
             }
           ]
         },
@@ -17533,25 +17533,25 @@
               "name": "CodexPlusPlus-1.1.9-alpha.2-macos-arm64.dmg",
               "size": 13718677,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9-alpha.2/CodexPlusPlus-1.1.9-alpha.2-macos-arm64.dmg",
-              "download_count": 1425
+              "download_count": 1426
             },
             {
               "name": "CodexPlusPlus-1.1.9-alpha.2-macos-x64.dmg",
               "size": 14523277,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9-alpha.2/CodexPlusPlus-1.1.9-alpha.2-macos-x64.dmg",
-              "download_count": 446
+              "download_count": 447
             },
             {
               "name": "CodexPlusPlus-1.1.9-alpha.2-windows-x64-setup.exe",
               "size": 7778945,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9-alpha.2/CodexPlusPlus-1.1.9-alpha.2-windows-x64-setup.exe",
-              "download_count": 5308
+              "download_count": 5309
             },
             {
               "name": "latest.json",
               "size": 1037,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9-alpha.2/latest.json",
-              "download_count": 25
+              "download_count": 26
             }
           ]
         },
@@ -17565,25 +17565,25 @@
               "name": "CodexPlusPlus-1.1.9-alpha.1-macos-arm64.dmg",
               "size": 13715685,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9-alpha.1/CodexPlusPlus-1.1.9-alpha.1-macos-arm64.dmg",
-              "download_count": 238
+              "download_count": 239
             },
             {
               "name": "CodexPlusPlus-1.1.9-alpha.1-macos-x64.dmg",
               "size": 14521829,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9-alpha.1/CodexPlusPlus-1.1.9-alpha.1-macos-x64.dmg",
-              "download_count": 61
+              "download_count": 62
             },
             {
               "name": "CodexPlusPlus-1.1.9-alpha.1-windows-x64-setup.exe",
               "size": 7772320,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9-alpha.1/CodexPlusPlus-1.1.9-alpha.1-windows-x64-setup.exe",
-              "download_count": 763
+              "download_count": 764
             },
             {
               "name": "latest.json",
               "size": 2454,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.9-alpha.1/latest.json",
-              "download_count": 18
+              "download_count": 19
             }
           ]
         },
@@ -17597,25 +17597,25 @@
               "name": "CodexPlusPlus-1.1.7-macos-arm64.dmg",
               "size": 12681681,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.7/CodexPlusPlus-1.1.7-macos-arm64.dmg",
-              "download_count": 26857
+              "download_count": 26858
             },
             {
               "name": "CodexPlusPlus-1.1.7-macos-x64.dmg",
               "size": 13251116,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.7/CodexPlusPlus-1.1.7-macos-x64.dmg",
-              "download_count": 7845
+              "download_count": 7846
             },
             {
               "name": "CodexPlusPlus-1.1.7-windows-x64-setup.exe",
               "size": 7146613,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.7/CodexPlusPlus-1.1.7-windows-x64-setup.exe",
-              "download_count": 90133
+              "download_count": 90134
             },
             {
               "name": "latest.json",
               "size": 790,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.7/latest.json",
-              "download_count": 236967
+              "download_count": 236968
             }
           ]
         },
@@ -17629,25 +17629,25 @@
               "name": "CodexPlusPlus-1.1.6-macos-arm64.dmg",
               "size": 12638771,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.6/CodexPlusPlus-1.1.6-macos-arm64.dmg",
-              "download_count": 1600
+              "download_count": 1601
             },
             {
               "name": "CodexPlusPlus-1.1.6-macos-x64.dmg",
               "size": 13196110,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.6/CodexPlusPlus-1.1.6-macos-x64.dmg",
-              "download_count": 234
+              "download_count": 235
             },
             {
               "name": "CodexPlusPlus-1.1.6-windows-x64-setup.exe",
               "size": 7134739,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.6/CodexPlusPlus-1.1.6-windows-x64-setup.exe",
-              "download_count": 2551
+              "download_count": 2552
             },
             {
               "name": "latest.json",
               "size": 1720,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.6/latest.json",
-              "download_count": 4039
+              "download_count": 4040
             }
           ]
         },
@@ -17661,19 +17661,19 @@
               "name": "CodexPlusPlus-1.1.5-macos-arm64.dmg",
               "size": 12294717,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.5/CodexPlusPlus-1.1.5-macos-arm64.dmg",
-              "download_count": 2542
+              "download_count": 2543
             },
             {
               "name": "CodexPlusPlus-1.1.5-macos-x64.dmg",
               "size": 12835796,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.5/CodexPlusPlus-1.1.5-macos-x64.dmg",
-              "download_count": 533
+              "download_count": 534
             },
             {
               "name": "CodexPlusPlus-1.1.5-windows-x64-setup.exe",
               "size": 6906638,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.5/CodexPlusPlus-1.1.5-windows-x64-setup.exe",
-              "download_count": 6400
+              "download_count": 6401
             }
           ]
         },
@@ -17687,19 +17687,19 @@
               "name": "CodexPlusPlus-1.1.4-macos-arm64.dmg",
               "size": 12317197,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.4/CodexPlusPlus-1.1.4-macos-arm64.dmg",
-              "download_count": 268
+              "download_count": 269
             },
             {
               "name": "CodexPlusPlus-1.1.4-macos-x64.dmg",
               "size": 12847891,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.4/CodexPlusPlus-1.1.4-macos-x64.dmg",
-              "download_count": 58
+              "download_count": 59
             },
             {
               "name": "CodexPlusPlus-1.1.4-windows-x64-setup.exe",
               "size": 6920595,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.4/CodexPlusPlus-1.1.4-windows-x64-setup.exe",
-              "download_count": 564
+              "download_count": 565
             }
           ]
         },
@@ -17713,19 +17713,19 @@
               "name": "CodexPlusPlus-1.1.3-macos-arm64.dmg",
               "size": 12307789,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.3/CodexPlusPlus-1.1.3-macos-arm64.dmg",
-              "download_count": 365
+              "download_count": 366
             },
             {
               "name": "CodexPlusPlus-1.1.3-macos-x64.dmg",
               "size": 12843721,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.3/CodexPlusPlus-1.1.3-macos-x64.dmg",
-              "download_count": 72
+              "download_count": 73
             },
             {
               "name": "CodexPlusPlus-1.1.3-windows-x64-setup.exe",
               "size": 6918722,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.3/CodexPlusPlus-1.1.3-windows-x64-setup.exe",
-              "download_count": 869
+              "download_count": 870
             }
           ]
         },
@@ -17739,19 +17739,19 @@
               "name": "CodexPlusPlus-1.1.2-macos-arm64.dmg",
               "size": 12201654,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.2/CodexPlusPlus-1.1.2-macos-arm64.dmg",
-              "download_count": 259
+              "download_count": 260
             },
             {
               "name": "CodexPlusPlus-1.1.2-macos-x64.dmg",
               "size": 13426322,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.2/CodexPlusPlus-1.1.2-macos-x64.dmg",
-              "download_count": 57
+              "download_count": 58
             },
             {
               "name": "CodexPlusPlus-1.1.2-windows-x64-setup.exe",
               "size": 6860719,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.2/CodexPlusPlus-1.1.2-windows-x64-setup.exe",
-              "download_count": 815
+              "download_count": 816
             }
           ]
         },
@@ -17765,19 +17765,19 @@
               "name": "CodexPlusPlus-1.1.1-macos-arm64.dmg",
               "size": 12007530,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.1/CodexPlusPlus-1.1.1-macos-arm64.dmg",
-              "download_count": 746
+              "download_count": 747
             },
             {
               "name": "CodexPlusPlus-1.1.1-macos-x64.dmg",
               "size": 12509562,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.1/CodexPlusPlus-1.1.1-macos-x64.dmg",
-              "download_count": 180
+              "download_count": 181
             },
             {
               "name": "CodexPlusPlus-1.1.1-windows-x64-setup.exe",
               "size": 6719116,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.1/CodexPlusPlus-1.1.1-windows-x64-setup.exe",
-              "download_count": 1947
+              "download_count": 1948
             }
           ]
         },
@@ -17791,13 +17791,13 @@
               "name": "CodexPlusPlus-1.1.0-macos-universal.dmg",
               "size": 12001117,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.0/CodexPlusPlus-1.1.0-macos-universal.dmg",
-              "download_count": 154
+              "download_count": 155
             },
             {
               "name": "CodexPlusPlus-1.1.0-windows-x64-setup.exe",
               "size": 6721987,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.1.0/CodexPlusPlus-1.1.0-windows-x64-setup.exe",
-              "download_count": 292
+              "download_count": 293
             }
           ]
         },
@@ -17811,7 +17811,7 @@
               "name": "CodexPlusPlus.zip",
               "size": 4577797,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.0.7.1/CodexPlusPlus.zip",
-              "download_count": 2010
+              "download_count": 2011
             }
           ]
         },
@@ -17825,7 +17825,7 @@
               "name": "CodexPlusPlus.zip",
               "size": 4561475,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.0.7/CodexPlusPlus.zip",
-              "download_count": 1185
+              "download_count": 1186
             }
           ]
         },
@@ -17839,7 +17839,7 @@
               "name": "CodexPlusPlus.zip",
               "size": 1418793,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.0.6/CodexPlusPlus.zip",
-              "download_count": 888
+              "download_count": 889
             }
           ]
         },
@@ -17853,7 +17853,7 @@
               "name": "CodexPlusPlus.zip",
               "size": 975699,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.0.5.1/CodexPlusPlus.zip",
-              "download_count": 1350
+              "download_count": 1351
             }
           ]
         },
@@ -17867,7 +17867,7 @@
               "name": "CodexPlusPlus.zip",
               "size": 956247,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.0.5/CodexPlusPlus.zip",
-              "download_count": 207
+              "download_count": 208
             }
           ]
         },
