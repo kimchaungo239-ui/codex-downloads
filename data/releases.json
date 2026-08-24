@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T14:36:59.466Z",
+  "updated_at": "2026-08-24T16:31:52.888Z",
   "repos": [
     {
       "name": "ccx",
@@ -17,7 +17,7 @@
               "name": "ccx-darwin-amd64",
               "size": 34854352,
               "download_url": "https://github.com/BenedictKing/ccx/releases/download/v2.9.37/ccx-darwin-amd64",
-              "download_count": 1725
+              "download_count": 1727
             },
             {
               "name": "ccx-darwin-amd64.sha256",
@@ -29,7 +29,7 @@
               "name": "ccx-darwin-arm64",
               "size": 32467936,
               "download_url": "https://github.com/BenedictKing/ccx/releases/download/v2.9.37/ccx-darwin-arm64",
-              "download_count": 1714
+              "download_count": 1720
             },
             {
               "name": "ccx-darwin-arm64.sha256",
@@ -53,7 +53,7 @@
               "name": "CCX-Desktop-2.9.37-darwin-amd64.zip",
               "size": 20576694,
               "download_url": "https://github.com/BenedictKing/ccx/releases/download/v2.9.37/CCX-Desktop-2.9.37-darwin-amd64.zip",
-              "download_count": 482
+              "download_count": 483
             },
             {
               "name": "CCX-Desktop-2.9.37-darwin-amd64.zip.sha256",
@@ -113,7 +113,7 @@
               "name": "CCX-Desktop-2.9.37-windows-amd64-setup.exe",
               "size": 21769456,
               "download_url": "https://github.com/BenedictKing/ccx/releases/download/v2.9.37/CCX-Desktop-2.9.37-windows-amd64-setup.exe",
-              "download_count": 7988
+              "download_count": 8000
             },
             {
               "name": "CCX-Desktop-2.9.37-windows-amd64-setup.exe.sha256",
@@ -185,7 +185,7 @@
               "name": "ccx-windows-amd64.exe",
               "size": 34402656,
               "download_url": "https://github.com/BenedictKing/ccx/releases/download/v2.9.37/ccx-windows-amd64.exe",
-              "download_count": 4051
+              "download_count": 4054
             },
             {
               "name": "ccx-windows-amd64.exe.sha256",
@@ -233,7 +233,7 @@
               "name": "checksums-windows.txt",
               "size": 608,
               "download_url": "https://github.com/BenedictKing/ccx/releases/download/v2.9.37/checksums-windows.txt",
-              "download_count": 178
+              "download_count": 180
             },
             {
               "name": "checksums-windows.txt.sigstore.json",
@@ -11695,115 +11695,115 @@
               "name": "CC-Switch-v3.20.0-Linux-arm64.AppImage",
               "size": 89782792,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-arm64.AppImage",
-              "download_count": 1262
+              "download_count": 1276
             },
             {
               "name": "CC-Switch-v3.20.0-Linux-arm64.AppImage.sig",
               "size": 424,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-arm64.AppImage.sig",
-              "download_count": 248
+              "download_count": 250
             },
             {
               "name": "CC-Switch-v3.20.0-Linux-arm64.deb",
               "size": 13002520,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-arm64.deb",
-              "download_count": 1935
+              "download_count": 2051
             },
             {
               "name": "CC-Switch-v3.20.0-Linux-arm64.rpm",
               "size": 13003174,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-arm64.rpm",
-              "download_count": 270
+              "download_count": 273
             },
             {
               "name": "CC-Switch-v3.20.0-Linux-x86_64.AppImage",
               "size": 92211704,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-x86_64.AppImage",
-              "download_count": 3374
+              "download_count": 3415
             },
             {
               "name": "CC-Switch-v3.20.0-Linux-x86_64.AppImage.sig",
               "size": 424,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-x86_64.AppImage.sig",
-              "download_count": 261
+              "download_count": 264
             },
             {
               "name": "CC-Switch-v3.20.0-Linux-x86_64.deb",
               "size": 13549836,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-x86_64.deb",
-              "download_count": 8234
+              "download_count": 8317
             },
             {
               "name": "CC-Switch-v3.20.0-Linux-x86_64.rpm",
               "size": 13550395,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Linux-x86_64.rpm",
-              "download_count": 647
+              "download_count": 656
             },
             {
               "name": "CC-Switch-v3.20.0-macOS.dmg",
               "size": 27936603,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-macOS.dmg",
-              "download_count": 208152
+              "download_count": 210840
             },
             {
               "name": "CC-Switch-v3.20.0-macOS.tar.gz",
               "size": 28658921,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-macOS.tar.gz",
-              "download_count": 16005
+              "download_count": 16190
             },
             {
               "name": "CC-Switch-v3.20.0-macOS.tar.gz.sig",
               "size": 408,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-macOS.tar.gz.sig",
-              "download_count": 150
+              "download_count": 151
             },
             {
               "name": "CC-Switch-v3.20.0-macOS.zip",
               "size": 27960003,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-macOS.zip",
-              "download_count": 939
+              "download_count": 966
             },
             {
               "name": "CC-Switch-v3.20.0-Windows-arm64-Portable.zip",
               "size": 12910681,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Windows-arm64-Portable.zip",
-              "download_count": 2877
+              "download_count": 2902
             },
             {
               "name": "CC-Switch-v3.20.0-Windows-arm64.msi",
               "size": 12787712,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Windows-arm64.msi",
-              "download_count": 7120
+              "download_count": 7196
             },
             {
               "name": "CC-Switch-v3.20.0-Windows-arm64.msi.sig",
               "size": 424,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Windows-arm64.msi.sig",
-              "download_count": 478
+              "download_count": 481
             },
             {
               "name": "CC-Switch-v3.20.0-Windows-Portable.zip",
               "size": 13557785,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Windows-Portable.zip",
-              "download_count": 12563
+              "download_count": 12700
             },
             {
               "name": "CC-Switch-v3.20.0-Windows.msi",
               "size": 13508608,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Windows.msi",
-              "download_count": 72354
+              "download_count": 73272
             },
             {
               "name": "CC-Switch-v3.20.0-Windows.msi.sig",
               "size": 420,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/CC-Switch-v3.20.0-Windows.msi.sig",
-              "download_count": 478
+              "download_count": 483
             },
             {
               "name": "latest.json",
               "size": 3534,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.20.0/latest.json",
-              "download_count": 193703
+              "download_count": 196271
             }
           ]
         },
@@ -11865,13 +11865,13 @@
               "name": "CC-Switch-v3.19.2-macOS.dmg",
               "size": 27188917,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-macOS.dmg",
-              "download_count": 375613
+              "download_count": 375614
             },
             {
               "name": "CC-Switch-v3.19.2-macOS.tar.gz",
               "size": 27837697,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-macOS.tar.gz",
-              "download_count": 41554
+              "download_count": 41556
             },
             {
               "name": "CC-Switch-v3.19.2-macOS.tar.gz.sig",
@@ -11889,13 +11889,13 @@
               "name": "CC-Switch-v3.19.2-Windows-arm64-Portable.zip",
               "size": 12493245,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Windows-arm64-Portable.zip",
-              "download_count": 6763
+              "download_count": 6764
             },
             {
               "name": "CC-Switch-v3.19.2-Windows-arm64.msi",
               "size": 12382208,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Windows-arm64.msi",
-              "download_count": 16729
+              "download_count": 16730
             },
             {
               "name": "CC-Switch-v3.19.2-Windows-arm64.msi.sig",
@@ -11907,13 +11907,13 @@
               "name": "CC-Switch-v3.19.2-Windows-Portable.zip",
               "size": 13123791,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Windows-Portable.zip",
-              "download_count": 25726
+              "download_count": 25729
             },
             {
               "name": "CC-Switch-v3.19.2-Windows.msi",
               "size": 13082624,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.2/CC-Switch-v3.19.2-Windows.msi",
-              "download_count": 171852
+              "download_count": 171870
             },
             {
               "name": "CC-Switch-v3.19.2-Windows.msi.sig",
@@ -11951,7 +11951,7 @@
               "name": "CC-Switch-v3.19.1-Linux-arm64.deb",
               "size": 12565598,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-arm64.deb",
-              "download_count": 2438
+              "download_count": 2439
             },
             {
               "name": "CC-Switch-v3.19.1-Linux-arm64.rpm",
@@ -11975,7 +11975,7 @@
               "name": "CC-Switch-v3.19.1-Linux-x86_64.deb",
               "size": 13099408,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Linux-x86_64.deb",
-              "download_count": 9204
+              "download_count": 9206
             },
             {
               "name": "CC-Switch-v3.19.1-Linux-x86_64.rpm",
@@ -11987,13 +11987,13 @@
               "name": "CC-Switch-v3.19.1-macOS.dmg",
               "size": 27019362,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.dmg",
-              "download_count": 172327
+              "download_count": 172328
             },
             {
               "name": "CC-Switch-v3.19.1-macOS.tar.gz",
               "size": 27717609,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.tar.gz",
-              "download_count": 32251
+              "download_count": 32253
             },
             {
               "name": "CC-Switch-v3.19.1-macOS.tar.gz.sig",
@@ -12005,19 +12005,19 @@
               "name": "CC-Switch-v3.19.1-macOS.zip",
               "size": 27044093,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-macOS.zip",
-              "download_count": 1265
+              "download_count": 1266
             },
             {
               "name": "CC-Switch-v3.19.1-Windows-arm64-Portable.zip",
               "size": 12433571,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Windows-arm64-Portable.zip",
-              "download_count": 4232
+              "download_count": 4233
             },
             {
               "name": "CC-Switch-v3.19.1-Windows-arm64.msi",
               "size": 12324864,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Windows-arm64.msi",
-              "download_count": 10323
+              "download_count": 10326
             },
             {
               "name": "CC-Switch-v3.19.1-Windows-arm64.msi.sig",
@@ -12029,13 +12029,13 @@
               "name": "CC-Switch-v3.19.1-Windows-Portable.zip",
               "size": 13071938,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Windows-Portable.zip",
-              "download_count": 16904
+              "download_count": 16905
             },
             {
               "name": "CC-Switch-v3.19.1-Windows.msi",
               "size": 13033472,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.1/CC-Switch-v3.19.1-Windows.msi",
-              "download_count": 112493
+              "download_count": 112503
             },
             {
               "name": "CC-Switch-v3.19.1-Windows.msi.sig",
@@ -12133,13 +12133,13 @@
               "name": "CC-Switch-v3.19.0-Windows-arm64-Portable.zip",
               "size": 12418373,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Windows-arm64-Portable.zip",
-              "download_count": 1567
+              "download_count": 1570
             },
             {
               "name": "CC-Switch-v3.19.0-Windows-arm64.msi",
               "size": 12312576,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Windows-arm64.msi",
-              "download_count": 4130
+              "download_count": 4134
             },
             {
               "name": "CC-Switch-v3.19.0-Windows-arm64.msi.sig",
@@ -12157,7 +12157,7 @@
               "name": "CC-Switch-v3.19.0-Windows.msi",
               "size": 13017088,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.19.0/CC-Switch-v3.19.0-Windows.msi",
-              "download_count": 42381
+              "download_count": 42385
             },
             {
               "name": "CC-Switch-v3.19.0-Windows.msi.sig",
@@ -12273,13 +12273,13 @@
               "name": "CC-Switch-v3.18.0-Windows-Portable.zip",
               "size": 12880212,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.18.0/CC-Switch-v3.18.0-Windows-Portable.zip",
-              "download_count": 29149
+              "download_count": 29150
             },
             {
               "name": "CC-Switch-v3.18.0-Windows.msi",
               "size": 12849152,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.18.0/CC-Switch-v3.18.0-Windows.msi",
-              "download_count": 202323
+              "download_count": 202327
             },
             {
               "name": "CC-Switch-v3.18.0-Windows.msi.sig",
@@ -12359,7 +12359,7 @@
               "name": "CC-Switch-v3.17.0-macOS.tar.gz",
               "size": 26855676,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.17.0/CC-Switch-v3.17.0-macOS.tar.gz",
-              "download_count": 51520
+              "download_count": 51522
             },
             {
               "name": "CC-Switch-v3.17.0-macOS.tar.gz.sig",
@@ -12383,7 +12383,7 @@
               "name": "CC-Switch-v3.17.0-Windows-arm64.msi",
               "size": 11907072,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.17.0/CC-Switch-v3.17.0-Windows-arm64.msi",
-              "download_count": 40025
+              "download_count": 40026
             },
             {
               "name": "CC-Switch-v3.17.0-Windows-arm64.msi.sig",
@@ -12395,13 +12395,13 @@
               "name": "CC-Switch-v3.17.0-Windows-Portable.zip",
               "size": 12625951,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.17.0/CC-Switch-v3.17.0-Windows-Portable.zip",
-              "download_count": 37066
+              "download_count": 37067
             },
             {
               "name": "CC-Switch-v3.17.0-Windows.msi",
               "size": 12599296,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.17.0/CC-Switch-v3.17.0-Windows.msi",
-              "download_count": 238901
+              "download_count": 238907
             },
             {
               "name": "CC-Switch-v3.17.0-Windows.msi.sig",
@@ -12463,7 +12463,7 @@
               "name": "CC-Switch-v3.16.5-Linux-x86_64.deb",
               "size": 12489082,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Linux-x86_64.deb",
-              "download_count": 28777
+              "download_count": 28778
             },
             {
               "name": "CC-Switch-v3.16.5-Linux-x86_64.rpm",
@@ -12475,13 +12475,13 @@
               "name": "CC-Switch-v3.16.5-macOS.dmg",
               "size": 25842794,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-macOS.dmg",
-              "download_count": 363776
+              "download_count": 363777
             },
             {
               "name": "CC-Switch-v3.16.5-macOS.tar.gz",
               "size": 26458757,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-macOS.tar.gz",
-              "download_count": 72041
+              "download_count": 72042
             },
             {
               "name": "CC-Switch-v3.16.5-macOS.tar.gz.sig",
@@ -12505,7 +12505,7 @@
               "name": "CC-Switch-v3.16.5-Windows-arm64.msi",
               "size": 11718656,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Windows-arm64.msi",
-              "download_count": 67751
+              "download_count": 67752
             },
             {
               "name": "CC-Switch-v3.16.5-Windows-arm64.msi.sig",
@@ -12517,13 +12517,13 @@
               "name": "CC-Switch-v3.16.5-Windows-Portable.zip",
               "size": 12407588,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Windows-Portable.zip",
-              "download_count": 54314
+              "download_count": 54315
             },
             {
               "name": "CC-Switch-v3.16.5-Windows.msi",
               "size": 12386304,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.5/CC-Switch-v3.16.5-Windows.msi",
-              "download_count": 374020
+              "download_count": 374032
             },
             {
               "name": "CC-Switch-v3.16.5-Windows.msi.sig",
@@ -12603,7 +12603,7 @@
               "name": "CC-Switch-v3.16.4-macOS.tar.gz",
               "size": 31584730,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.4/CC-Switch-v3.16.4-macOS.tar.gz",
-              "download_count": 35267
+              "download_count": 35268
             },
             {
               "name": "CC-Switch-v3.16.4-macOS.tar.gz.sig",
@@ -12639,13 +12639,13 @@
               "name": "CC-Switch-v3.16.4-Windows-Portable.zip",
               "size": 14944923,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.4/CC-Switch-v3.16.4-Windows-Portable.zip",
-              "download_count": 27711
+              "download_count": 27714
             },
             {
               "name": "CC-Switch-v3.16.4-Windows.msi",
               "size": 14921728,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.4/CC-Switch-v3.16.4-Windows.msi",
-              "download_count": 182111
+              "download_count": 182116
             },
             {
               "name": "CC-Switch-v3.16.4-Windows.msi.sig",
@@ -12719,7 +12719,7 @@
               "name": "CC-Switch-v3.16.3-macOS.dmg",
               "size": 33181220,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.3/CC-Switch-v3.16.3-macOS.dmg",
-              "download_count": 369184
+              "download_count": 369185
             },
             {
               "name": "CC-Switch-v3.16.3-macOS.tar.gz",
@@ -12749,7 +12749,7 @@
               "name": "CC-Switch-v3.16.3-Windows.msi",
               "size": 16056320,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.3/CC-Switch-v3.16.3-Windows.msi",
-              "download_count": 458297
+              "download_count": 458303
             },
             {
               "name": "CC-Switch-v3.16.3-Windows.msi.sig",
@@ -12847,13 +12847,13 @@
               "name": "CC-Switch-v3.16.2-Windows-Portable.zip",
               "size": 14385151,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.2/CC-Switch-v3.16.2-Windows-Portable.zip",
-              "download_count": 51498
+              "download_count": 51500
             },
             {
               "name": "CC-Switch-v3.16.2-Windows.msi",
               "size": 14704640,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.2/CC-Switch-v3.16.2-Windows.msi",
-              "download_count": 298641
+              "download_count": 298644
             },
             {
               "name": "CC-Switch-v3.16.2-Windows.msi.sig",
@@ -12927,7 +12927,7 @@
               "name": "CC-Switch-v3.16.1-macOS.dmg",
               "size": 28423334,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.1/CC-Switch-v3.16.1-macOS.dmg",
-              "download_count": 207867
+              "download_count": 207868
             },
             {
               "name": "CC-Switch-v3.16.1-macOS.tar.gz",
@@ -12957,7 +12957,7 @@
               "name": "CC-Switch-v3.16.1-Windows.msi",
               "size": 13701120,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.16.1/CC-Switch-v3.16.1-Windows.msi",
-              "download_count": 331176
+              "download_count": 331181
             },
             {
               "name": "CC-Switch-v3.16.1-Windows.msi.sig",
@@ -13135,7 +13135,7 @@
               "name": "CC-Switch-v3.15.0-macOS.dmg",
               "size": 26814209,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.15.0/CC-Switch-v3.15.0-macOS.dmg",
-              "download_count": 342943
+              "download_count": 342972
             },
             {
               "name": "CC-Switch-v3.15.0-macOS.tar.gz",
@@ -13159,13 +13159,13 @@
               "name": "CC-Switch-v3.15.0-Windows-Portable.zip",
               "size": 12555823,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.15.0/CC-Switch-v3.15.0-Windows-Portable.zip",
-              "download_count": 76369
+              "download_count": 76370
             },
             {
               "name": "CC-Switch-v3.15.0-Windows.msi",
               "size": 12877824,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.15.0/CC-Switch-v3.15.0-Windows.msi",
-              "download_count": 465072
+              "download_count": 465077
             },
             {
               "name": "CC-Switch-v3.15.0-Windows.msi.sig",
@@ -13227,7 +13227,7 @@
               "name": "CC-Switch-v3.14.1-Linux-x86_64.deb",
               "size": 11895708,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.14.1/CC-Switch-v3.14.1-Linux-x86_64.deb",
-              "download_count": 48151
+              "download_count": 48152
             },
             {
               "name": "CC-Switch-v3.14.1-Linux-x86_64.rpm",
@@ -13239,7 +13239,7 @@
               "name": "CC-Switch-v3.14.1-macOS.dmg",
               "size": 24515295,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.14.1/CC-Switch-v3.14.1-macOS.dmg",
-              "download_count": 280439
+              "download_count": 280441
             },
             {
               "name": "CC-Switch-v3.14.1-macOS.tar.gz",
@@ -13477,7 +13477,7 @@
               "name": "CC-Switch-v3.13.0-Windows.msi",
               "size": 11390976,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.13.0/CC-Switch-v3.13.0-Windows.msi",
-              "download_count": 153040
+              "download_count": 153041
             },
             {
               "name": "CC-Switch-v3.13.0-Windows.msi.sig",
@@ -13575,13 +13575,13 @@
               "name": "CC-Switch-v3.12.3-Windows-Portable.zip",
               "size": 9603373,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.12.3/CC-Switch-v3.12.3-Windows-Portable.zip",
-              "download_count": 32997
+              "download_count": 32998
             },
             {
               "name": "CC-Switch-v3.12.3-Windows.msi",
               "size": 9924608,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.12.3/CC-Switch-v3.12.3-Windows.msi",
-              "download_count": 163961
+              "download_count": 163963
             },
             {
               "name": "CC-Switch-v3.12.3-Windows.msi.sig",
@@ -13765,7 +13765,7 @@
               "name": "CC-Switch-v3.12.1-macOS.zip",
               "size": 20037789,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.12.1/CC-Switch-v3.12.1-macOS.zip",
-              "download_count": 3313
+              "download_count": 3315
             },
             {
               "name": "CC-Switch-v3.12.1-Windows-Portable.zip",
@@ -13777,7 +13777,7 @@
               "name": "CC-Switch-v3.12.1-Windows.msi",
               "size": 9654272,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.12.1/CC-Switch-v3.12.1-Windows.msi",
-              "download_count": 11588
+              "download_count": 11589
             },
             {
               "name": "CC-Switch-v3.12.1-Windows.msi.sig",
@@ -14169,7 +14169,7 @@
               "name": "CC-Switch-v3.10.3-Windows.msi",
               "size": 8519680,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.10.3/CC-Switch-v3.10.3-Windows.msi",
-              "download_count": 97614
+              "download_count": 97617
             },
             {
               "name": "CC-Switch-v3.10.3-Windows.msi.sig",
@@ -14681,7 +14681,7 @@
               "name": "CC-Switch-v3.8.3-Windows.msi",
               "size": 5214208,
               "download_url": "https://github.com/farion1231/cc-switch/releases/download/v3.8.3/CC-Switch-v3.8.3-Windows.msi",
-              "download_count": 10302
+              "download_count": 10303
             },
             {
               "name": "CC-Switch-v3.8.3-Windows.msi.sig",
@@ -15969,43 +15969,43 @@
               "name": "CodexPlusPlus-1.2.52-macos-arm64.dmg",
               "size": 34986234,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.52/CodexPlusPlus-1.2.52-macos-arm64.dmg",
-              "download_count": 1950
+              "download_count": 2047
             },
             {
               "name": "CodexPlusPlus-1.2.52-macos-arm64.zip",
               "size": 30956786,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.52/CodexPlusPlus-1.2.52-macos-arm64.zip",
-              "download_count": 162
+              "download_count": 173
             },
             {
               "name": "CodexPlusPlus-1.2.52-macos-x64.dmg",
               "size": 36009631,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.52/CodexPlusPlus-1.2.52-macos-x64.dmg",
-              "download_count": 344
+              "download_count": 365
             },
             {
               "name": "CodexPlusPlus-1.2.52-macos-x64.zip",
               "size": 31360553,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.52/CodexPlusPlus-1.2.52-macos-x64.zip",
-              "download_count": 101
+              "download_count": 110
             },
             {
               "name": "CodexPlusPlus-1.2.52-windows-x64-setup.exe",
               "size": 21689361,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.52/CodexPlusPlus-1.2.52-windows-x64-setup.exe",
-              "download_count": 12099
+              "download_count": 12831
             },
             {
               "name": "CodexPlusPlus-1.2.52-windows-x64.zip",
               "size": 27530123,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.52/CodexPlusPlus-1.2.52-windows-x64.zip",
-              "download_count": 734
+              "download_count": 790
             },
             {
               "name": "latest.json",
               "size": 1874,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.52/latest.json",
-              "download_count": 35190
+              "download_count": 37872
             }
           ]
         },
@@ -16019,7 +16019,7 @@
               "name": "CodexPlusPlus-1.2.51-macos-arm64.dmg",
               "size": 34983599,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.51/CodexPlusPlus-1.2.51-macos-arm64.dmg",
-              "download_count": 732
+              "download_count": 734
             },
             {
               "name": "CodexPlusPlus-1.2.51-macos-arm64.zip",
@@ -16043,7 +16043,7 @@
               "name": "CodexPlusPlus-1.2.51-windows-x64-setup.exe",
               "size": 21689852,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.51/CodexPlusPlus-1.2.51-windows-x64-setup.exe",
-              "download_count": 5469
+              "download_count": 5470
             },
             {
               "name": "CodexPlusPlus-1.2.51-windows-x64.zip",
@@ -16093,7 +16093,7 @@
               "name": "CodexPlusPlus-1.2.50-windows-x64-setup.exe",
               "size": 20891351,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.50/CodexPlusPlus-1.2.50-windows-x64-setup.exe",
-              "download_count": 25169
+              "download_count": 25174
             },
             {
               "name": "CodexPlusPlus-1.2.50-windows-x64.zip",
@@ -16119,7 +16119,7 @@
               "name": "CodexPlusPlus-1.2.49-macos-arm64.dmg",
               "size": 34618313,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.49/CodexPlusPlus-1.2.49-macos-arm64.dmg",
-              "download_count": 2484
+              "download_count": 2485
             },
             {
               "name": "CodexPlusPlus-1.2.49-macos-arm64.zip",
@@ -16143,7 +16143,7 @@
               "name": "CodexPlusPlus-1.2.49-windows-x64-setup.exe",
               "size": 20815986,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.49/CodexPlusPlus-1.2.49-windows-x64-setup.exe",
-              "download_count": 14268
+              "download_count": 14270
             },
             {
               "name": "CodexPlusPlus-1.2.49-windows-x64.zip",
@@ -16169,7 +16169,7 @@
               "name": "CodexPlusPlus-1.2.48-macos-arm64.dmg",
               "size": 34687306,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.48/CodexPlusPlus-1.2.48-macos-arm64.dmg",
-              "download_count": 2456
+              "download_count": 2457
             },
             {
               "name": "CodexPlusPlus-1.2.48-macos-arm64.zip",
@@ -16243,7 +16243,7 @@
               "name": "CodexPlusPlus-1.2.47-windows-x64-setup.exe",
               "size": 21376473,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.47/CodexPlusPlus-1.2.47-windows-x64-setup.exe",
-              "download_count": 43394
+              "download_count": 43395
             },
             {
               "name": "CodexPlusPlus-1.2.47-windows-x64.zip",
@@ -16269,7 +16269,7 @@
               "name": "CodexPlusPlus-1.2.46-macos-arm64.dmg",
               "size": 34193352,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.46/CodexPlusPlus-1.2.46-macos-arm64.dmg",
-              "download_count": 3380
+              "download_count": 3381
             },
             {
               "name": "CodexPlusPlus-1.2.46-macos-arm64.zip",
@@ -16281,7 +16281,7 @@
               "name": "CodexPlusPlus-1.2.46-macos-x64.dmg",
               "size": 35330051,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.46/CodexPlusPlus-1.2.46-macos-x64.dmg",
-              "download_count": 733
+              "download_count": 734
             },
             {
               "name": "CodexPlusPlus-1.2.46-macos-x64.zip",
@@ -16293,7 +16293,7 @@
               "name": "CodexPlusPlus-1.2.46-windows-x64-setup.exe",
               "size": 21299616,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.46/CodexPlusPlus-1.2.46-windows-x64-setup.exe",
-              "download_count": 19536
+              "download_count": 19538
             },
             {
               "name": "CodexPlusPlus-1.2.46-windows-x64.zip",
@@ -16419,7 +16419,7 @@
               "name": "CodexPlusPlus-1.2.43-macos-arm64.dmg",
               "size": 34341178,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.43/CodexPlusPlus-1.2.43-macos-arm64.dmg",
-              "download_count": 8050
+              "download_count": 8051
             },
             {
               "name": "CodexPlusPlus-1.2.43-macos-arm64.zip",
@@ -16493,7 +16493,7 @@
               "name": "CodexPlusPlus-1.2.42-windows-x64-setup.exe",
               "size": 21118365,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.42/CodexPlusPlus-1.2.42-windows-x64-setup.exe",
-              "download_count": 39787
+              "download_count": 39788
             },
             {
               "name": "CodexPlusPlus-1.2.42-windows-x64.zip",
@@ -17901,7 +17901,7 @@
               "name": "CodexPlusPlus-1.2.7-windows-x64-setup.exe",
               "size": 8336071,
               "download_url": "https://github.com/BigPizzaV3/CodexPlusPlus/releases/download/v1.2.7/CodexPlusPlus-1.2.7-windows-x64-setup.exe",
-              "download_count": 13239
+              "download_count": 13240
             },
             {
               "name": "latest.json",
